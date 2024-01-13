@@ -7,12 +7,12 @@ Criar uma biblioteca que será base para um sistema Kanban de gerenciamento de p
 
 ## Alunos
 
-| Matrícula | Nome                                |
-| --------- | ----------------------------------- |
-| 211026548 | Analyce Rayssa Silva Nunes          |
-| 222005386 | Laryssa de Oliveira Ferreira        |
-| 222005395 | Lurian Correia Lima                 |
-| 222025960 | Marcus Emanuel C. T. de Freitas     |
+| Nome                                |
+| ----------------------------------- |
+| Analyce Rayssa Silva Nunes          |
+| Laryssa de Oliveira Ferreira        |
+| Lurian Correia Lima                 |
+| Marcus Emanuel C. T. de Freitas     |
 
 
 ## Plano de Implementação
